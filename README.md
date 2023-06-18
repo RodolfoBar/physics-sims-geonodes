@@ -10,11 +10,16 @@ Blender 3.6.0 Beta or above
 
 Step 1: Clone Repository
 
-Step 2: 
-
-Step 3:
+Step 2: Open whichever Node tree you want in Blender
 
 ## Implemented Physics Simulations:
 
-- Elastic Collision
+- Elastic collisions between spherical particles of varying Radius and Mass
+
+## To be worked on
+
+- Fluid Simulations
+- Smoke Simulation
+- General Soft Body Simulation
+- Snow Simulations
 
