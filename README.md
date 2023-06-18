@@ -16,7 +16,7 @@ Step 2: Open whichever Node tree you want in Blender
 
 - Elastic collisions between spherical particles of varying Radius and Mass
 
-## To be worked on
+## To be worked on:
 
 - Fluid Simulations
 - Smoke Simulation
