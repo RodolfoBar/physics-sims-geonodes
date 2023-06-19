@@ -12,6 +12,8 @@ Step 1: Clone Repository
 
 Step 2: Open whichever Node tree you want in Blender
 
+If you would like to just view the results of the geonodes, you can open the Demo.blend which has all the nodetrees linked to it
+
 ## Implemented Physics Simulations:
 
 - Elastic collisions between spherical particles of varying Radius and Mass
