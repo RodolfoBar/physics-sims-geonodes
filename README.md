@@ -17,6 +17,7 @@ If you would like to just view the results of the geonodes, you can open the Dem
 ## Implemented Physics Simulations:
 
 - Elastic collisions between spherical particles of varying Radius and Mass
+- 2D implementation included. However not final.
 
 ## To be worked on:
 
